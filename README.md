@@ -1,16 +1,18 @@
-### Hi there 👋
+### boas vindas ao meu perfil 🤍
 
-<!--
-**alvesgiovana/alvesgiovana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+eu sou giovana 
 
-Here are some ideas to get you started:
+- estou estudando na plataforma [Alura](https://cursos.alura.com.br)
+- estou desenvolvendo a linguagem JavaScript
+- utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## voce pode entrar em contato comigo 📫
+
+00001073260860sp@al.educacao.sp.gov.br
+
+
+
+![](https://tenor.com/pt-BR/view/ariana-grande-thank-u-next-ariana-grande-reface-gif-20558071)
